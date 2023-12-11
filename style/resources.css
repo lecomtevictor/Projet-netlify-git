@@ -1,0 +1,13 @@
+/* Styles spécifiques pour la page 'Apprendre Encore Plus' */
+.additional-learning {
+    padding: 1rem;
+    background-color: #f8f9fa;
+    border-radius: 8px;
+    margin-bottom: 2rem;
+}
+
+.additional-learning h2 {
+    color: #007bff;
+}
+
+/* Vous pouvez ajuster ou ajouter d'autres styles ici selon vos besoins */
