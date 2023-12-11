@@ -1,0 +1,41 @@
+.contact-intro {
+    text-align: center;
+    margin: 2rem 0;
+}
+
+.contact-card {
+    background: #f4f4f4;
+    padding: 2rem;
+    margin: 2rem;
+    border-radius: 8px;
+    text-align: center;
+}
+
+.contact-card h4 {
+    margin-top: 0;
+}
+
+.contact-card p {
+    font-size: 0.9rem;
+}
+
+.btn-home {
+    width: 20rem;
+    display: block;
+    margin: 1rem auto;
+    background: #007bff;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    text-align: center;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+.btn-home:hover {
+    background-color: #0056b3;
+}
+
+header {
+    text-align: center;
+}
