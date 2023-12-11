@@ -1,0 +1,15 @@
+/* Styles spécifiques pour la page de création de compte Netlify */
+.netlify-account-creation,
+.netlify-deployment {
+    padding: 1rem;
+    background-color: #f8f9fa;
+    border-radius: 8px;
+    margin-bottom: 2rem;
+}
+
+.netlify-account-creation h2,
+.netlify-deployment h2 {
+    color: #007bff;
+}
+
+/* Vous pouvez ajuster ou ajouter d'autres styles ici selon vos besoins */
