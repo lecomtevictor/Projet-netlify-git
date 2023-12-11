@@ -1,0 +1,15 @@
+/* Styles spécifiques pour la page de préparation de projet */
+.project-preparation,
+.netlify-account {
+    padding: 1rem;
+    background-color: #f8f9fa;
+    border-radius: 8px;
+    margin-bottom: 2rem;
+}
+
+.project-preparation h2,
+.netlify-account h2 {
+    color: #007bff;
+}
+
+/* Vous pouvez ajuster ou ajouter d'autres styles ici selon vos besoins */
