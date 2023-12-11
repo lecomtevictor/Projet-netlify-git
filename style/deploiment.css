@@ -1,0 +1,15 @@
+/* Styles spécifiques pour la page de déploiement */
+.deploy-instructions,
+.site-management {
+    padding: 1rem;
+    background-color: #f8f9fa;
+    border-radius: 8px;
+    margin-bottom: 2rem;
+}
+
+.deploy-instructions h2,
+.site-management h2 {
+    color: #007bff;
+}
+
+/* Vous pouvez ajuster ou ajouter d'autres styles ici selon vos besoins */
